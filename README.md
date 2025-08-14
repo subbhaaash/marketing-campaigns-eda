@@ -4,7 +4,7 @@
 [![View in nbviewer](https://img.shields.io/badge/View%20in-nbviewer-blue)](https://nbviewer.org/github/subbhaaash/marketing-campaigns-eda/blob/main/MARKETING_CAMPAIGNS.ipynb)
 [![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/subbhaaash/marketing-campaigns-eda/HEAD?labpath=MARKETING_CAMPAIGNS.ipynb)
 
-Concise EDA on the Marketing Campaigns dataset using the 4Ps (People, Product, Place, Promotion).  
+Concise,interview-friendly EDA on the Marketing Campaigns dataset using the 4Ps (People, Product, Place, Promotion).  
 Focus: simple pipeline, clear visuals, and four hypothesis tests.
 
 ## Highlights
